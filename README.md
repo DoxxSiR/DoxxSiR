@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Sameer KC! 👋
 
-<!--
-**DoxxSiR/DoxxSiR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+I am an undergraduate **BBA** student at **RITZ College of Engineering and Management**, affiliated with **Pokhara University**. Passionate about **fintech, quantitative finance, and software development**, I aim to bridge the gap between technology and business through innovative solutions.
 
-Here are some ideas to get you started:
+### 💡 Interests
+- 🔥 Fintech & Virtual Payment Systems
+- 💻 Web & Software Development
+- 📊 Business Analytics & Financial Modeling
+- ✍️ Writing & Screenplay Development
+- 🌍 Building Meaningful Connections & Inclusive Communities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- **Frontend:** React.js, JavaScript
+- **Backend:** FastAPI, Python
+- **Database:** PostgreSQL
+- **Other Tools:** Git, Docker, VS Code
+
+### 📫 Connect with Me
+- 📧 Email: sameerkc543@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/doxxsir](https://www.linkedin.com/in/doxxsir)
+- 🐦 X (Formerly Twitter): [x.com/doxxsir](https://x.com/doxxsir)
+
+Let's connect and build something great together! 🚀
+
+
